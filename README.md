@@ -18,4 +18,7 @@ I enjoy working on system logic, performance, and real-world problems.
 - **Tools:** Git, GitHub, Postman, Razorpay
 
 ---
-
+### 🌐 Live Projects
+- **Yen Cosmetics** (Shopify): https://www.yencosmetics.com/
+- **Kaitra** (WordPress): https://kaitra.co/
+---
