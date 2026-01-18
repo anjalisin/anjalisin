@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Anjali Singh 👋</h2>
 
-<!--
-**anjalisin/anjalisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend-leaning Full-Stack Developer | Java • Node.js • React
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **scalable backends**, **clean REST APIs**, and **practical full-stack applications**.  
+I enjoy working on system logic, performance, and real-world problems.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript  
+- **Backend:** Node.js, Express, REST APIs, JWT  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Tools:** Git, GitHub, Postman, Razorpay
+
+---
+
