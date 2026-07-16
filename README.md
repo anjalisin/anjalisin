@@ -13,12 +13,8 @@ I enjoy working on system logic, performance, and real-world problems.
 
 ### 🛠 Tech Stack
 - **Languages:** Java, JavaScript  
-- **Backend:** Node.js, Express, REST APIs, JWT  
+- **Backend:**Spring boot,Spring MVC, Node.js, Express, REST APIs, JWT  
 - **Frontend:** React, HTML, CSS, Tailwind  
 - **Tools:** Git, GitHub, Postman, Razorpay
 
----
-### 🌐 Live Projects
-- **Yen Cosmetics** (Shopify): https://www.yencosmetics.com/
-- **Kaitra** (WordPress): https://kaitra.co/
----
+
