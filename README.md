@@ -12,7 +12,7 @@ I enjoy working on system logic, performance, and real-world problems.
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Java, JavaScript  
+- **Languages:** Java,Python, JavaScript  
 - **Backend:**Spring boot,Spring MVC, Node.js, Express, REST APIs, JWT  
 - **Frontend:** React, HTML, CSS, Tailwind  
 - **Tools:** Git, GitHub, Postman, Razorpay
